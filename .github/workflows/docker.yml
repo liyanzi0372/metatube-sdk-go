@@ -10,7 +10,7 @@ on:
       - 'main'
     tags:
       - '*'
-   workflow_dispatch:
+  workflow_dispatch:
    
 jobs:
 
